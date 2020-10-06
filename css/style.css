@@ -14,9 +14,8 @@ body {
   margin-top: 50px;
 }
 
-
 p {
-  width: 50%;
+  width: 75%;
   margin: auto;
 }
 
@@ -130,6 +129,7 @@ a {
   border-radius: 20px;
   text-decoration: none;
 }
+
 
 .footer-link {
   color: #11999E;
