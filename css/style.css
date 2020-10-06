@@ -48,8 +48,9 @@ hr {
 }
 
 a {
-  color: #11999E;
+  color: white;
   font-weight: bolder;
+  text-decoration: none;
 }
 
 .profile {
@@ -129,6 +130,8 @@ a {
 }
 
 .footer-link {
+  color: #11999E;
+  font-weight: bolder;
   margin: auto 50px auto 50px;
   text-decoration: none;
 }
